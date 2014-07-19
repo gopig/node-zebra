@@ -1,0 +1,12 @@
+{
+  "name": "node-zebra",
+  "version": "0.0.0",
+  "description": "node-zebra",
+  "main": "index.js",
+  "author": {
+    "name": "RaymondZhong",
+    "email": "raymondzhong@hotmail.com"
+  },
+  "dependencies": {}
+
+}
